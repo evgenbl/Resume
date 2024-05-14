@@ -64,6 +64,7 @@ a {
 
 .coll p {
     color: #86898f;
+    float: left;
 }
 
 p {
