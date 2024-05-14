@@ -64,7 +64,6 @@ a {
 
 .coll p {
     color: #86898f;
-    float: left;
 }
 
 p {
@@ -89,6 +88,5 @@ p {
 }
 
 img {
-    /*text-align: center;*/ 
-    float: left;
+    text-align: center; 
 }
