@@ -23,7 +23,7 @@ a {
 }
 
 .info1 {
-    text-align: center;
+    text-align: ;
     padding: 15px 20px;
     margin-bottom: 20px;
     margin-top: 10px;
@@ -64,6 +64,7 @@ a {
 
 .coll p {
     color: #86898f;
+    text-align: center;
 }
 
 p {
@@ -87,6 +88,15 @@ p {
     font-size: 17px;
 }
 
+h2 {
+    text-align: center;
+    margin-top: -125px;
+}
+
 img {
-    text-align: center; 
+    text-align: left;    
+}
+
+.info1 h3 {
+    text-align: center;
 }
