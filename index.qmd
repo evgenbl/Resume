@@ -1,0 +1,80 @@
+---
+title: "Евгений Шуляк"
+format: 
+  html:
+    self-contained: true
+    toc: true
+    toc-location: left
+    toc-title: На этой странице
+    toc_depth: 
+    other-links:
+    - text: Slackware 
+      href: http://www.slackware.com/
+      target: http://www.slackware.com/
+    - text: Terminal
+      href: https://help.ubuntu.com/kubuntu/desktopguide/ru/terminals.html
+      target: https://help.ubuntu.com/kubuntu/desktopguide/ru/terminals.html
+    - text: LaTeX
+      href: https://www.latex-project.org/
+      target: https://www.latex-project.org/
+    - text: Markdown
+      href: https://doka.guide/tools/markdown/
+      target: https://doka.guide/tools/markdown/
+    - text: HTML
+      href: https://ru.wikipedia.org/wiki/HTML
+      target: https://ru.wikipedia.org/wiki/HTML
+    - text: CSS
+      href: https://ru.wikipedia.org/wiki/CSS
+      target: https://ru.wikipedia.org/wiki/CSS
+    - text: Мой блог
+      href: https://evgenbl.github.io/
+      target: https://evgenbl.github.io/
+    - text: Мой новый блог
+      href: https://evgenbl.github.io/blog/
+      target: https://evgenbl.github.io/blog/
+    - text: Мой Rutube-канал
+      href: https://rutube.ru/channel/23809417/
+      target: https://rutube.ru/channel/23809417/
+    - text: ВKонтакте
+      href: https://vk.com/jenit777
+      target: https://vk.com/jenit777
+    theme: cosmo
+knitr: 
+  opts_chunk: 
+    warning: false
+    message: false
+editor: visual
+---
+
+```{=html}
+<style>
+  /*body {
+   text-align: center
+}*/
+
+p {
+  text-align: center
+}
+
+a {
+    font-size: 18px;
+    color: rgb(7, 31, 250);
+    text-decoration: none;
+    /*font-weight: bolder;*/
+    font-style: italic;
+}
+h1 {
+    font-size: 20px;
+    text-align: center
+}
+</style>
+```
+![](img/2021_09_09%2002_57_44.jpg){style="border-radius: 28px; border-radius: 28px;" width="300"}
+
+<p><strong><em>Родился 22 января 1962г.</em></strong></p>
+
+<p><strong><em>Пенсионер.Живу на Камчатке.</em></strong></p>
+
+<p><strong>Мои увлечения: GNU/Linux</strong></p>
+
+<p><em>Большинство людей, использующих эту систему сегодня, не знают, что на самом деле они используют систему GNU в сочетании с ядром Linux.<br>Проект GNU был начат в 1984 году Ричардом Столменом для разработки полностью свободной операционной системы, поскольку в то время ее не существовало.<br> Его дизайн во многом повторял дизайн Unix, потому что Unix была очень широко распространенной.<br> Линус Торвальдс не написал операционную систему, он только написал последнюю недостающую часть, ядро, потому что разработка собственного ядра проекта GNU, отставала и не была завершена.<br>Сказать «GNU/Linux» вместо «Linux» будет точнее.<br> Без незаменимого программного обеспечения, предоставленного проектом GNU, и, что еще более важно, без основополагающих идей свободы, система, которую ошибочно называют «Linux», не существовала бы.</em></p>
