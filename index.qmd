@@ -29,9 +29,6 @@ format:
     - text: Мой блог
       href: https://evgenbl.github.io/
       target: https://evgenbl.github.io/
-    - text: Мой новый блог
-      href: https://evgenbl.github.io/blog/
-      target: https://evgenbl.github.io/blog/
     - text: Мой Rutube-канал
       href: https://rutube.ru/channel/23809417/
       target: https://rutube.ru/channel/23809417/
